@@ -5,5 +5,3 @@
 **Stay Tuned**
 
 ##### Follow us on facebook by clicking [here](https://www.facebook.com/bouras.monsef/)
-
-## **that project is not responive**
