@@ -17,7 +17,7 @@ html {
 }
 body {
   font-family: "Nunito", sans-serif;
-  opacity: 1
+  opacity: 1;
 }
 ul {
   list-style: none;
@@ -91,6 +91,7 @@ input[type="number"] {
   display: flex;
   align-items: center;
   justify-content: center;
+  z-index: 105;
 }
 .hide-pre-load {
   display: none;
